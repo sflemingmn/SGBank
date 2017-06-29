@@ -1,0 +1,10 @@
+c:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.dll
+c:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.pdb
+c:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+c:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.dll
+c:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SGBank\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SGBank\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SGBank\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SGBank\SGBank.Models\obj\Debug\SGBank.Models.pdb
